@@ -1,0 +1,38 @@
+
+
+Class RainFall
+
+*Fields
+** -String[] MONTHS
+** -double[] allRainFall
+
+
+*Methods
+** +RainFall(double[])
+** +getYearlyRainFall() : double
+** +getMonthlyRainFall() : double
+** +getMonthlyMostName() : String[]
+** +getMonthlyLeastName() : String[]
+** +getMonthlyMostInches() : double
+** +getMonthlyLeastInches() : double
+
+
+
+
+
+Class a8main
+
+*Fields
+** String[] MONTHS
+
+
+*Methods
+** main
+** getRainFall() : double[]
+** getInput() : double
+** displayTotalRainFall(RainFall)
+** displayAverageRainFall(RainFall)
+** displayMonthMost(RainFall)
+** displayMonthLeast(RainFall)
+
+
